@@ -57,4 +57,4 @@ Responsetime             : 3316ms
 
 ## SonarCloud
 Quality metrics for this project are available at - 
-https://sonarcloud.io/project/configuration?id=tombel84_notifications-cli
+https://sonarcloud.io/project/overview?id=tombel84_notifications-cli
