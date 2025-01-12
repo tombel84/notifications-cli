@@ -6,7 +6,7 @@ notifications-cli allows users to POST notifications about reports that capture 
 - [Build](#Build)
 - [Test](#test)
 - [Run](#run)
-- [SonarCloud] (#sonarcloud)
+- [SonarCloud](#sonarcloud)
 
 ## Requirements
 Note: This project uses Gradle wrapper to build it so you don't need to install Gradle on your machine to build/test and run the application
