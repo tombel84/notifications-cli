@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="notificationscli.services.NotificationServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-20T12:22:55" hostname="dev-machine" time="0.191">
+  <properties/>
+  <testcase name="usesTheCorrectJSONFileToLoadTheNotification()" classname="notificationscli.services.NotificationServiceTest" time="0.147"/>
+  <testcase name="loadsANotificationFromAJSONFile()" classname="notificationscli.services.NotificationServiceTest" time="0.028"/>
+  <testcase name="throwsValidationExceptionIfJSONFileFailsSchemaValidation()" classname="notificationscli.services.NotificationServiceTest" time="0.005"/>
+  <system-out><![CDATA[notificationscli.services.ServiceException: Error loading JSON file
+]]></system-out>
+  <system-err><![CDATA[JSON file not found: ./src/test/resources/test-notifications/missing-notificatioUrl.json
+]]></system-err>
+</testsuite>

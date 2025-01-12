@@ -1,0 +1,6 @@
+{
+    "notificationUrl": "https://example.com",
+    "notificationContent": {
+        "studyInstanceUID": "ANY_UID"
+    }
+}

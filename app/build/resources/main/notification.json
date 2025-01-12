@@ -1,0 +1,7 @@
+{
+    "notificationUrl": "https://webhook.site/d9d87d20-6729-4992-b986-f7e0776ae234",
+    "notificationContent": {
+        "rep!ortUID": "20fb8e02-9c55-410a-93a9-489c6f1d7598",
+        "studyInstanceUID": "9998e02-9c55-410a-93a9-489c6f789798"
+    }
+}
