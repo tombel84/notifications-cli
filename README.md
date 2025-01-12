@@ -6,6 +6,7 @@ notifications-cli allows users to POST notifications about reports that capture 
 - [Build](#Build)
 - [Test](#test)
 - [Run](#run)
+- [SonarCloud] (#sonarcloud)
 
 ## Requirements
 Note: This project uses Gradle wrapper to build it so you don't need to install Gradle on your machine to build/test and run the application
@@ -53,3 +54,7 @@ HTTP Response Body       : {"success":false,"error":{"message":"Token \"d9d87d20
 HTTP Response StatusCode : 404,
 Responsetime             : 3316ms
 ~~~
+
+## SonarCloud
+Quality metrics for this project are available at - 
+https://sonarcloud.io/project/configuration?id=tombel84_notifications-cli
